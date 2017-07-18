@@ -1,0 +1,11 @@
+package improbable.ship;
+
+component ShipControls {
+    // Component ID, unique within the project
+    id = 1000;
+
+    // The speed at which the ship wants to move at
+    float target_speed = 1;
+    // The direction the ship wants to be steering in
+    float target_steering = 2;
+}

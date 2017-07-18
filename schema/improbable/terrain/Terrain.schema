@@ -1,0 +1,6 @@
+package improbable.terrain;
+
+component Terrain {
+    // Component ID, unique within the project
+    id = 1005;
+}
