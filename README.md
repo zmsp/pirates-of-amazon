@@ -1,4 +1,17 @@
-# PiratesTutorial
+# Improbablen Platform
+Improbable/SpatialOS experiments
+
+
+# Setting up environment with Intellij
+* Initial Environment: https://docs.improbable.io/reference/8.0/developing/set-up-intellij
+* Setting up IDE: https://docs.improbable.io/reference/8.0/developing/run-from-intellij
+* Get the plugin https://github.com/improbable-io/spatialos-schema-intellij
+
+
+
+# From original project--
+
+## PiratesTutorial
 
 ![Pirates Screenshot](pirates-screenshot.jpg)
 
