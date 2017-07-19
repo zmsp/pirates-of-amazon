@@ -276,7 +276,7 @@ MonoBehaviour:
       UseInstrumentation: 1
     Networking:
       Ip: 
-      LinkProtocol: 1
+      LinkProtocol: 0
       Port: 7777
       RaknetHeartbeatTimeoutMillis: 60000
       ReceiveQueueCapacity: 32768

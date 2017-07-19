@@ -1,6 +1,12 @@
 {
   "template": "small",
   "world": {
+    "legacy_javaparams": [
+      {
+        "name": "-DFABRIC_LOG_LEVEL",
+        "value": "DEBUG"
+      }
+    ],
     "chunkEdgeLengthMeters": 50,
     "snapshots": {
       "snapshotWritePeriodSeconds": 0
