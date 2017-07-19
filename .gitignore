@@ -2,3 +2,10 @@ spatial.log
 spatialos_worker_packages.json
 build/
 logs/
+/prime-pirates.iml
+/.idea/
+.idea/
+prime-pirates.iml
+workers/unity/Assets/Plugins/
+workers/unity/spatialos.unity.client.build.json
+workers/unity/spatialos.unity.worker.build.json
